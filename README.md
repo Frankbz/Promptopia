@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Overview
+![image](https://github.com/Frankbz/Promptopia/assets/98783358/cd542bcb-74f8-4266-945b-6050f25ec28e)
+
+![image](https://github.com/Frankbz/Promptopia/assets/98783358/7d78b9ab-0608-4a2e-9b4a-939c56d98a1f)
+
+![image](https://github.com/Frankbz/Promptopia/assets/98783358/fe7db182-dd22-434c-97c3-210238ddcfb3)
+
+This is a project built with Next.js and tailwindCSS that allows users to share their prompt with AI prompts. It enables google login with OAuth 2.0.
+Try it yourself: https://promptopia-jm1fbbico-frankbz.vercel.app
 
 ## Getting Started
 
@@ -18,14 +26,7 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
