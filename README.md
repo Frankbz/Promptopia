@@ -6,6 +6,7 @@
 ![image](https://github.com/Frankbz/Promptopia/assets/98783358/fe7db182-dd22-434c-97c3-210238ddcfb3)
 
 This is a project built with Next.js and tailwindCSS that allows users to share their prompt with AI prompts. It enables google login with OAuth 2.0.
+
 Try it yourself: https://promptopia-jm1fbbico-frankbz.vercel.app
 
 ## Getting Started
